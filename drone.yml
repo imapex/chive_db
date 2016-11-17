@@ -4,7 +4,6 @@ build:
         commands:
             - echo "Beginning new build"
 
-
 publish:
     docker:
         repo: $$DOCKER_USERNAME/chive_db
