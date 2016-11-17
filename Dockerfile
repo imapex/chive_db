@@ -1,3 +1,3 @@
-FROM python:2.7-alpine
+FROM python:2
 MAINTAINER Justin Barksdale "jusbarks@cisco.com"
 
